@@ -1,5 +1,5 @@
 # KickProxies Website - Sneaker Proxy Service Provider 
-Website of a discontinued business that I helped design and make. KickProxies was active from 2019-2020 and offered fast unbanned proxies that sneaker botters could use to purchase shoes.
+KickProxies was active from 2019-2020 and offered fast unbanned proxies that resellers could use to purchase items.
 
 ## Live Demo
 https://stevenha75.github.io/kickproxies/
